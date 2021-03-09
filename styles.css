@@ -1,0 +1,10 @@
+#banner{
+  background-image: url(img/banner.jpg);
+  background-size: cover;
+}
+
+#grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 1em;
+}
